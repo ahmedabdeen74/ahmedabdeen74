@@ -10,17 +10,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ahmed-mosalam-843763232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alinourr" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Ahmed-Mosalam33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Ali_Nour" height="30" width="40" /></a>                                   
-  <a href="https://www.facebook.com/ahmed.mosalam.923?mibextid=V3Yony" target="blank"><img align="center"
+<a href="https://www.linkedin.com/in/ahmed-abdeen-028024267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedabdeen" height="30" width="40" /></a>                                
+  <a href="https://www.facebook.com/profile.php?id=100038764715847&mibextid=dGKdO6" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="ali Nour" height="30" width="40" /></a>                                      
-  <a href="https://instagram.com/ahmed.mosalam3?igshid=NGVhN2U2NjQ0Yg==" target="blank"><img align="center"
+      alt="ahmed abdeen" height="30" width="40" /></a>                                      
+  <a href="https://www.instagram.com/ahmedabdeen_74/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="ali Nour" height="30" width="40" /></a>                                        
- <a href="https://x.com/ahmedmosalam02?s=21&t=1Qb1EDOtyo09OUWlMomEdw" target="blank"><img align="center"
+      alt="ahmed abdeen" height="30" width="40" /></a>                                        
+ <a href="https://twitter.com/ahmedabdeen74" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="ali Nour" height="30" width="40" /></a>
+      alt="ahmed abdeen" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
